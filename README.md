@@ -12,7 +12,7 @@ The raw data in this repository includes the triterpenoid structures analyzed in
 The provided R scripts allow for the recreation of the hierarchical clustering and structural variation analyses described in the manuscript. The scripts are designed for ease of use, with detailed comments to support understanding and further experimentation in related biosynthetic tasks.
 
 ## Results
-The study applied the common reference frame system to 112 triterpenoid structures from plant surface waxes. Key findings include the identification of structural hotspots, hierarchical clustering that mirrors biosynthetic pathways, and the discovery of major dimensions of structural variation. The system also revealed correlations between structural features and phylogenetic distributions of triterpenoids, showing that this approach can reveal evolutionary patterns in biosynthesis.
+Our study applied the common reference frame system to 112 triterpenoid structures from plant surface waxes. Key findings include the identification of structural hotspots, hierarchical clustering that mirrors biosynthetic pathways, and the discovery of major dimensions of structural variation. The system also revealed correlations between structural features and phylogenetic distributions of triterpenoids, showing that this approach can reveal evolutionary patterns in biosynthesis.
 
 ## Contribution to the Scientific Community
 This molecular representation system offers a novel tool for natural product research, particularly for studying structural diversity and pathway elucidation. Its ability to integrate structural and biosynthetic insights can advance the understanding of complex natural products and has potential applications in drug discovery and metabolic engineering.
